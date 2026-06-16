@@ -198,6 +198,7 @@ body {
 .music-item {
   text-align: center;
   text-decoration: none;
+  color: inherit;
 }
 .music-item img {
   width: min(5.5555555556vw, 80px);
